@@ -1,0 +1,110 @@
+body {
+  background-image: url("vlag.jpg");
+}
+
+.homepage{
+  text-align: center;
+}
+
+h1{
+    font-size: 250%;
+    text-align: justify;
+    color: white;
+    border-right: 4px;
+}
+
+h2{
+  text-align: justify;
+  color: white;
+  border-right: 3px;
+  padding: 10px;
+}
+
+p{
+  font-size: 130%;
+}
+
+p{
+  text-align: left;
+  color: white;
+}
+
+p {
+    border-right: 4px;
+    padding: 30px
+}
+
+.voedingswaarden {
+  position: absolute;
+  left: 0px;
+  top: 400px;
+  padding: 4px;
+  font-size: 150px;
+}
+
+.energie {
+  position: absolute;
+  left: 0px;
+  top: 450px;
+  padding: 4px;
+}
+
+.groenten {
+  position: absolute;
+  left: 400px;
+  top: 420px;
+}
+#afbeedling {
+  position: absolute;
+  left: 900px;
+  top: 365px;
+}
+
+.italie {
+  position: absolute;
+  left: 300px;
+  top: 350px;
+}
+
+.bereidingswijze {
+  position: absolute;
+  left: 640px;
+  top: 480px;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 24px 26px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+form{
+  text-align:left;
+  color: white;
+  font-size: 150%
+}
+
+.Ingrediënten{
+      position: absolute;
+      left: 400px;
+      top: 150px;
+}
